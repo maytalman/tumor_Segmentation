@@ -1,5 +1,5 @@
 # Beyin MR Görüntülerinden Tümör Segmentasyonu
-
+Ebru Maytalman
 U-net mimarisi kullanarak beyinde bulunan tümör segmente edilmiştir.
 
 Segmente edilmiş bir örneği aşağıdaki görüntüde görebilirsiniz.
